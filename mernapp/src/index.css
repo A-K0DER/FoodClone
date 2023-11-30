@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.b30{
+  filter: brightness(30%);
+}
+
+.btn-act{
+  color: #fff !important;
+  background-color: #198754 !important;
+  border-color: #198754 !important;
+}
+
+.ob-fit{
+  object-fit: contain !important;
+}
